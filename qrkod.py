@@ -6,7 +6,7 @@ try:
 
     size=input("Karekod boyutunu giriniz:")
 
-    veri=input("İçerik")
+    veri=input("İçerik:")
 
     veriler= {
         'size' :size+ 'x'+ size,
